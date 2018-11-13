@@ -5,7 +5,7 @@ Simple CLI tool written in Go to import a .env file in Consul.
 ## Installation ##
 
 ```
-go get -u https://github.com/jordyv/consul-dotenv-import
+go get -u github.com/jordyv/consul-dotenv-import
 ```
 
 ## Usage ##
